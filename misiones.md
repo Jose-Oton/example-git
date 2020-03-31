@@ -4,3 +4,5 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros
 4. Volar por el cielo
+5. Bailar toda la noche
+6. Echarse unas chelas
