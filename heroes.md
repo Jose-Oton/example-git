@@ -8,3 +8,4 @@
 * Linterna Verde
 * Robin
 * Supergirl
+* Cyborg
